@@ -1,0 +1,7 @@
+[
+  { "_key": "clavier", "name": "Clavier mécanique", "price": 89.9 },
+  { "_key": "souris", "name": "Souris sans fil", "price": 39.9 },
+  { "_key": "ecran", "name": "Écran 27 pouces", "price": 249.0 },
+  { "_key": "casque", "name": "Casque audio", "price": 129.0 },
+  { "_key": "webcam", "name": "Webcam HD", "price": 59.0 }
+]

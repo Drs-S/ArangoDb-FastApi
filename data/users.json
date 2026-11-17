@@ -1,0 +1,6 @@
+[
+  { "_key": "alice", "name": "Alice", "age": 30 },
+  { "_key": "bob", "name": "Bob", "age": 24 },
+  { "_key": "carol", "name": "Carol", "age": 35 },
+  { "_key": "dave", "name": "Dave", "age": 28 }
+]

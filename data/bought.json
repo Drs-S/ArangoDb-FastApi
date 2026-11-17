@@ -1,0 +1,10 @@
+[
+  { "_from": "users/alice", "_to": "products/clavier" },
+  { "_from": "users/alice", "_to": "products/souris" },
+  { "_from": "users/bob", "_to": "products/souris" },
+  { "_from": "users/bob", "_to": "products/ecran" },
+  { "_from": "users/carol", "_to": "products/clavier" },
+  { "_from": "users/carol", "_to": "products/casque" },
+  { "_from": "users/dave", "_to": "products/ecran" },
+  { "_from": "users/dave", "_to": "products/webcam" }
+]
